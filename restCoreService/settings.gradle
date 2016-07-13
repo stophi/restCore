@@ -1,0 +1,2 @@
+include ":restCorePersistence"
+project(":restCorePersistence").projectDir = file("../restCorePersistence")
